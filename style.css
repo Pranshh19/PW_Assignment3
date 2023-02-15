@@ -1,0 +1,57 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.body{
+    background-image: url('hero.png');
+    background-repeat: no-repeat;
+    background-size: 1550px 770px;
+    background-blend-mode:darken;
+    background-color: rgb(116, 116, 116);
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    background-color: black;
+    padding:15px;
+}
+
+
+
+.div{
+    color: white;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    margin-right: 690px;
+}
+.main{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.p1{
+    color:white;
+    font-size: medium;
+}
+
+.btn{
+    background-color:rgb(226, 56, 226) ;
+    color: white;
+    font-weight: bold;
+    padding:10px;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    margin-top: auto;
+}
+
+.btn2{
+    margin-top: 40px;
+}
+
